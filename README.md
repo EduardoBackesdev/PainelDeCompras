@@ -5,5 +5,7 @@ O software conta com a possibilidade do usuario cadastrar seus dados, cadastrar 
 é mostrado para o usuario a NF, onde consta seus dados e o valor total gastado.
 
 #Video do Software funcionando
-https://github.com/EduardoBackesdev/PainelDeCompras/assets/128044560/95733ca9-531f-405e-b83e-b26347d643ce
+
+https://github.com/EduardoBackesdev/PainelDeCompras/assets/128044560/ba7b9820-9dd1-4e39-bbfe-1fab4e919bc8
+
 
